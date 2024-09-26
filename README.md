@@ -80,17 +80,19 @@ endmodule
 ```
 
  Developed by: SARANYA V
+ 
  RegisterNumber: 212223040188
  
 **Logic symbol & Truthtable**
+![Screenshot 2024-09-26 203027](https://github.com/user-attachments/assets/ceab2795-ae9a-4b6e-afd4-88cdcfdadcf5)
 
 **RTL realization Output:** 
 ![Screenshot 2024-09-25 093838](https://github.com/user-attachments/assets/3bbc1d73-e325-4348-83b9-c0d1e3d52fe4)
-
 
 **RTL**
 ![Screenshot 2024-09-25 093054](https://github.com/user-attachments/assets/aad27e02-c169-4501-b533-f88d26cadfdb)
 
 **Result:**
+
 Thus the different digital IC's are studied and the truth table for different logic gates are verified.
 
